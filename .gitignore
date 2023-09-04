@@ -21,3 +21,4 @@ dist/
 scratch/
 joystick/joystick_cpp/json.hpp
 *.ipynb_checkpoints
+sd3dis/stanford_building_parser_dataset 
